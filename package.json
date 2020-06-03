@@ -196,7 +196,7 @@
 		"grunt-checktextdomain": "1.0.1",
 		"grunt-wp-i18n": "1.0.3",
 		"husky": "4.2.5",
-		"jest-environment-jsdom-sixteen": "^1.0.3",
+		"jest-environment-jsdom-sixteen": "1.0.3",
 		"lerna": "3.20.2",
 		"lint-staged": "10.1.7",
 		"locutus": "2.0.11",
